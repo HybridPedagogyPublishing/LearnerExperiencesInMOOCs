@@ -3,7 +3,6 @@ layout: front
 title: Learning Experiences with MOOCs and Open Online Learning
 ---
 
-
 ## Read online ##
 
 <br/>
